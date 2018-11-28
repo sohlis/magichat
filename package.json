@@ -1,0 +1,22 @@
+{
+  "name": "magic-hat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohlis/magichat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohlis/magichat/issues"
+  },
+  "homepage": "https://github.com/sohlis/magichat#readme",
+  "devDependencies": {
+    "axios": "^0.16.2"
+  }
+}
